@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tenor Trainer</string>
+    <string name="high_scores">High Scores</string>
+    <string name="no_scores">No scores yet.</string>
+    <string name="done">Done!</string>
+    <string name="back">Back to menu</string>
+    <string name="quit">Quit</string>
+    <string name="quit_to_menu">Quit to main menu</string>
+    <string name="clear_scores">Clear high scores</string>
+    <string name="clear_scores_confirm">Delete all high scores? This can\'t be undone.</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+
+    <style name="Theme.TenorTrainer" parent="android:Theme.Material.NoActionBar" />
+</resources>
