@@ -88,6 +88,7 @@ class PlayActivity : Activity() {
         }
 
         setContentView(LinearLayout(this).apply {
+            fitsSystemWindows = true
             orientation = LinearLayout.VERTICAL
             addView(promptView, LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT).apply {
                 topMargin = dp(12)
