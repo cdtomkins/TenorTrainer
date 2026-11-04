@@ -36,3 +36,6 @@ google-services.json
 
 # VS Code workspace settings
 .vscode/
+
+# Mac cruft
+.DS_Store
